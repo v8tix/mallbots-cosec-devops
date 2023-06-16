@@ -1,0 +1,4 @@
+MAINTAINER="v8tix"
+IMAGE="cosec"
+TAG="v1.0.0"
+IMAGE_TAG="${MAINTAINER}/${IMAGE}:${TAG}"
